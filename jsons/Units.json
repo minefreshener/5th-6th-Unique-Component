@@ -215,5 +215,35 @@
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "crossbow"
+	},
+		{
+		"name": "Obudshaer",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Denmark",
+		"movement": 2,
+		"strength": 19,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+75]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Huscarl",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Denmark",
+		"movement": 4,
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <vs [Sword] units>"],
+		"promotions": ["Amphibious"],
+		"attackSound": "horse"
 	}
 ]
