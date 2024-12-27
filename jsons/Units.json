@@ -275,5 +275,34 @@
 		"obsoleteTech": "Rifling",
 		"promotions": ["[Janissary] ability"],
 		"attackSound": "shot"
+	},
+		{
+		"name": "Woad Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "England",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 13,
+		"cost": 85,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["Can build [Camp] improvements on tiles", "Can build [Lumber Mill] improvements on tiles", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Billman",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "England",
+		"movement": 2,
+		"strength": 18,
+		"cost": 75,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+75]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
 ]
