@@ -137,5 +137,36 @@
 		"obsoleteTech": "Rifling",
 		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
+	},
+		{
+		"name": "Sacred Band",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Carthage",
+		"movement": 2,
+		"strength": 18,
+		"cost": 125,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"uniques": ["[+100]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Belaeric Slinger",
+		"unitType": "Archery",
+		"uniqueTo": "Carthage",
+		"replaces": "Composite Bowman",
+		"movement": 2,
+		"strength": 9,
+		"range": 1,
+		"rangedStrength": 13,
+		"cost": 100,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["Slinger Withdraw"],
+		"attackSound": "throw"
 	}
 ]
