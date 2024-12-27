@@ -49,4 +49,32 @@
 		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
 	},
+		{
+		"name": "Austro-Persian Corps (AUS)",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Austria",
+		"movement": 2,
+		"strength": 53,
+		"cost": 375,
+		"requiredTech": "Biology",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Survivalism I", "[Persian Immortal] ability"],
+		"attackSound": "shot"
+	},
+			{
+		"name": "Austro-Persian Corps (PER)",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Persia",
+		"movement": 2,
+		"strength": 53,
+		"cost": 375,
+		"requiredTech": "Biology",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Survivalism I", "[Persian Immortal] ability"],
+		"attackSound": "shot"
+	}
 ]
