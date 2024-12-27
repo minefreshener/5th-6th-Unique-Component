@@ -250,7 +250,7 @@
 		"name": "Mamluk Archer",
 		"unitType": "Archery",
 		"replaces": "Knight",
-		"uniqueTo": "egypt",
+		"uniqueTo": "Egypt",
 		"movement": 4,
 		"strength": 20,
 		"rangedStrength": 21,
