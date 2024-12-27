@@ -168,5 +168,52 @@
 		"upgradesTo": "Crossbowman",
 		"promotions": ["Slinger Withdraw"],
 		"attackSound": "throw"
+	},
+		{
+		"name": "Foederati (CEL)",
+		"unitType": "Sword",
+		"uniqueTo": "Celts",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 95,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+			{
+		"name": "Foederati (ROM)",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 95,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["Can build [Road] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Pictish Crossbowman",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Celts",
+		"movement": 2,
+		"strength": 15,
+		"range": 2,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"promotions": ["Pictish Courage"],
+		"attackSound": "crossbow"
 	}
 ]
