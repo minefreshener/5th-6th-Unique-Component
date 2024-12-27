@@ -297,7 +297,7 @@
 		"replaces": "Pikeman",
 		"uniqueTo": "England",
 		"movement": 2,
-		"strength": 18,
+		"strength": 17,
 		"cost": 75,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+75]% Strength <vs [Mounted] units>"],
