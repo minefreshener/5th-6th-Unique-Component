@@ -76,5 +76,35 @@
 		"obsoleteTech": "Plastics",
 		"promotions": ["Survivalism I", "[Persian Immortal] ability"],
 		"attackSound": "shot"
+	},
+		{
+		"name": "Arrow Warrior",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Aztecs",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 17,
+		"range": 1,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Drill I"],
+		"attackSound": "throw"
+	},
+		{
+		"name": "Jaguar Knight",
+		"unitType": "Sword",
+		"uniqueTo": "Aztecs",
+		"replaces": "Knight",
+		"movement": 2,
+		"strength": 20,
+		"cost": 140,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"promotions": ["[Jaguar] ability","Woodsman", "Drill I"],
+		"attackSound": "nonmetalhit"
 	}
 ]
