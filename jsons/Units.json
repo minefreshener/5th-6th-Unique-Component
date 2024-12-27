@@ -106,5 +106,36 @@
 		"upgradesTo": "Rifleman",
 		"promotions": ["[Jaguar] ability","Woodsman", "Drill I"],
 		"attackSound": "nonmetalhit"
+	},
+		{
+		"name": "Varangian Guard",
+		"unitType": "Sword",
+		"uniqueTo": "Byzantium",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 28,
+		"cost": 160,
+		"requiredTech": "Steel",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Iron",
+		"promotions": ["Amphibious", "Charge"],
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Greek Fire",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Byzantium",
+		"movement": 2,
+		"strength": 24,
+		"rangedStrength": 30,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
+		"attackSound": "shot"
 	}
 ]
