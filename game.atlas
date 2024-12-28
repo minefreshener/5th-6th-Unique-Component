@@ -45,6 +45,20 @@ UnitIcons/Mandinka Archer
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Al-Holpop
+  rotate: false
+  xy: 1252, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Bashi Bazouk
+  rotate: false
+  xy: 836, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 
 game2.png
 size: 2048, 2048
