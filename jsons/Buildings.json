@@ -45,5 +45,13 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Civil Service"
-	}
+	},
+	    {
+        "name": "Constabulary",
+        "cost": 160,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
+        "requiredTech": "Banking"
+    },
 ]
