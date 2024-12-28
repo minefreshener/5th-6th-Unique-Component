@@ -447,5 +447,21 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "shot"
+	},
+		{
+		"name": "Iroquois Heavy Infantry",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Iroquois",
+		"movement": 2,
+		"strength": 15,
+		"range": 1,
+		"rangedStrength": 19,
+		"cost": 110,
+		"requiredTech": "Civil Service",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Cover I", "[Mohawk Warrior] ability"],
+		"attackSound": "throw"
 	}
 ]
