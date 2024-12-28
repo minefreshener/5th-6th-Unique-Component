@@ -624,5 +624,39 @@
 		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "Must set up to ranged attack", "Rough terrain penalty"],
 		"promotions": ["Cover I", "Cover II"],
 		"attackSound": "cannon"
+	},
+		{
+		"name": "Siamese Elephant Gunner",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Siam",
+		"movement": 3,
+		"strength": 40,
+		"range": 2,
+		"rangedStrength": 38,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "shot"
+	},
+		{
+		"name": "Mounted Crossbowman",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Siam",
+		"movement": 4,
+		"strength": 22,
+		"range": 2,
+		"rangedStrength": 26,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Accuracy I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
 	}
 ]
