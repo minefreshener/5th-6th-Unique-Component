@@ -1,1 +1,12 @@
-
+Icons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+ImprovementIcons/Terrace farm
+  rotate: false
+  xy: 328, 362
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
