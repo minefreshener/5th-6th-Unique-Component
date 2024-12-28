@@ -396,7 +396,7 @@
 		"movement": 2,
 		"strength": 18,
 		"cost": 75,
-		"requiredTech": "Iron working",
+		"requiredTech": "Iron Working",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
