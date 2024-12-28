@@ -479,5 +479,21 @@
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["Great Generals I"],
 		"attackSound": "shot"
+	},
+		{
+		"name": "Samurai Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Japan",
+		"movement": 4,
+		"strength": 36,
+		"cost": 250,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["Great Generals II"],
+		"attackSound": "horse"
 	}
 ]
