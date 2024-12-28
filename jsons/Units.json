@@ -527,5 +527,22 @@
 		"upgradesTo": "Rifleman",
 		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
+	},
+		{
+		"name": "Daylamite",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Persia",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 24,
+		"range": 1,
+		"cost": 140,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["[Persian Immortal] ability"],
+		"attackSound": "metalhit"
 	}
 ]
