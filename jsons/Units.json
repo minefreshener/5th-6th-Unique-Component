@@ -544,5 +544,18 @@
 		"requiredResource": "Iron",
 		"promotions": ["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
+	},
+		{
+		"name": "Waka",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "Polynesia",
+		"movement": 4,
+		"strength": 20,
+		"cost": 100,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "[Privateer] ability", "Supply"],
+		"attackSound": "cannon"
 	}
 ]
