@@ -1,1 +1,12 @@
-
+ConstructionIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/Armstrong Gun
+  rotate: false
+  xy: 268, 1704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
