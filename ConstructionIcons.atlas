@@ -38,3 +38,73 @@ UnitIcons/Varangian Guard
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Belaeric Slinger
+  rotate: false
+  xy: 1702, 1048
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Foederati (CEL)
+  rotate: false
+  xy: 968, 1368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Foederati (ROM)
+  rotate: false
+  xy: 968, 1368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pictish Crossbowman
+  rotate: false
+  xy: 644, 1402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Legio Palatina
+  rotate: false
+  xy: 1172, 1804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Longbowman (IND)
+  rotate: false
+  xy: 1496, 1804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Huscarl
+  rotate: false
+  xy: 968, 1692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Obudshaer
+  rotate: false
+  xy: 956, 1800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Woad Warrior
+  rotate: false
+  xy: 1712, 1804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Janissary (EGP)
+  rotate: false
+  xy: 946, 828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
