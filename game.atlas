@@ -10,6 +10,13 @@ UnitIcons/Union Colored Infantry
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Greek Fire
+  rotate: false
+  xy: 1044, 1460
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 
 game2.png
 size: 2048, 2048
@@ -53,6 +60,13 @@ UnitIcons/Austro-Persian Corps (PER)
 UnitIcons/Arrow Warrior
   rotate: false
   xy: 420, 1421
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Sacred Band
+  rotate: false
+  xy: 836, 1005
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
