@@ -23,3 +23,37 @@ UnitIcons/Deli
   orig: 200, 200
   offset: 0, 0
   index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bimaristan
+  rotate: false
+  xy: 4, 1837
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Austro-Persian Corps (Aus)
+  rotate: false
+  xy: 1460, 1837
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Austro-Persian Corps (PER)
+  rotate: false
+  xy: 1460, 1837
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Arrow Warrior
+  rotate: false
+  xy: 420, 1421
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
