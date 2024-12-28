@@ -46,7 +46,7 @@
 		"requiredTech": "Chemistry",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Comment Unlocked at Chemistry", "[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
+		"uniques": ["Unlocked at Chemistry", "[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
 	},
 			{
@@ -62,7 +62,7 @@
 		"requiredTech": "Chemistry",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Comment Unlocked at Chemistry", "[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
+		"uniques": ["Unlocked at Chemistry", "[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
 	},
 		{
@@ -151,7 +151,7 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Comment Unlocked at Chemistry", "[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
+		"uniques": ["Unlocked at Chemistry", "[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
 	},
 		{
@@ -164,7 +164,7 @@
 		"cost": 125,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
-		"uniques": ["Comment Unlocked at Iron Working", "[+100]% Strength <vs [Mounted] units>"],
+		"uniques": ["Unlocked at Iron Working", "[+100]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
@@ -196,7 +196,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Comment Unlocked at Iron Working", "Can build [Fort] improvements on tiles"],
+		"uniques": ["Unlocked at Iron Working", "Can build [Fort] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -211,7 +211,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Comment Unlocked at Iron Working", "Can build [Road] improvements on tiles"],
+		"uniques": ["Unlocked at Iron Working", "Can build [Road] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -400,7 +400,7 @@
 		"requiredTech": "Engineering",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"uniques": ["Comment Unlocked at Engineering","Can move after attacking"],
+		"uniques": ["Unlocked at Engineering","Can move after attacking"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -413,7 +413,7 @@
 		"strength": 18,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"uniques": ["Comment Unlocked at Iron Working", "[+50]% Strength <vs [Mounted] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
+		"uniques": ["Unlocked at Iron Working", "[+50]% Strength <vs [Mounted] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
@@ -459,7 +459,7 @@
 		"rangedStrength": 30,
 		"cost": 200,
 		"requiredTech": "Gunpowder",
-		"uniques": ["Comment Unlocked at Gunpowder", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
+		"uniques": ["Unlocked at Gunpowder", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "shot"
@@ -477,7 +477,7 @@
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques": ["Comment Unlocked at Civil Service"],
+		"uniques": ["Unlocked at Civil Service"],
 		"promotions": ["Cover I", "[Mohawk Warrior] ability"],
 		"attackSound": "throw"
 	},
@@ -637,7 +637,7 @@
 		"rangedStrength": 38,
 		"cost": 200,
 		"requiredTech": "Rifling",
-		"uniques": ["Comment Unlocked at Rifling", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
+		"uniques": ["Unlocked at Rifling", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "shot"
@@ -779,7 +779,7 @@
 		"requiredTech": "Animal Husbandry",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Comment Unlocked at Animal Husbandry","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"uniques": ["Unlocked at Animal Husbandry","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -825,7 +825,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Comment Unlocked at Steel", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control"],
+		"uniques": ["Unlocked at Steel", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control"],
 		"promotions": ["Ignore terrain cost", "Shock I", "Charge"],
 		"attackSound": "horse"
 	},
