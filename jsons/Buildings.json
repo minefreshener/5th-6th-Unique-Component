@@ -32,5 +32,18 @@
 		"requiredBuilding": "Walls",
 		"uniques": ["Destroyed when the city is captured", "Must have an owned [Mountain] within [2] tiles", "[+1 Culture] from [Road] tiles [in this city]"],
 		"requiredTech": "Chivalry"
+	},
+			{
+		"name": "Maze Fortifications",
+		"cost": 100,
+		"replaces": "Castle",
+		"uniqueTo": "Iroquois",
+		"cityStrength": 10,
+		"cityHealth": 10,
+		"culture": 1,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Civil Service"
 	}
 ]
