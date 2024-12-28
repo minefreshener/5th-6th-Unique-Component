@@ -565,13 +565,14 @@
 		"uniqueTo": "Rome",
 		"movement": 3,
 		"strength": 9,
+		"range": 2,
 		"rangedStrength": 15,
 		"cost": 90,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack"],
+			"Must set up to ranged attack", "Rough terrain penalty"],
 		"attackSound": "arrow"
 	},
 		{
@@ -588,5 +589,40 @@
 		"requiredResource": "Iron",
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 		"attackSound": "metalhit"
+	},
+		{
+		"name": "Moscow Rajtara",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Russia",
+		"movement": 4,
+		"strength": 25,
+		"rangedStrength": 26,
+		"range": 1,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Shock I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+		{
+		"name": "Gulay Gorod",
+		"unitType": "Siege",
+		"replaces": "Cannon",
+		"uniqueTo": "Russia",
+		"movement": 3,
+		"strength": 14,
+		"range": 2,
+		"rangedStrength": 20,
+		"cost": 185,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "Must set up to ranged attack", "Rough terrain penalty"],
+		"promotions": ["Cover I", "Cover II"],
+		"attackSound": "cannon"
 	}
 ]
