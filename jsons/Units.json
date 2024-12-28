@@ -752,5 +752,34 @@
 		"upgradesTo": "Rifleman",
 		"uniques": ["[+15]% Strength <vs [Water] units>", "[+15]% Strength <vs cities>", "Destroys tile improvements when attacking", "[+50]% Strength <vs [Sword] units>"],
 		"attackSound": "shot"
+	},
+		{
+		"name": "Slave Spearman",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "The Huns",
+		"movement": 2,
+		"strength": 10,
+		"cost": 35,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Herdsman",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "The Huns",
+		"movement": 4,
+		"strength": 11,
+		"cost": 65,
+		"requiredTech": "Animal Husbandry",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
 ]
