@@ -658,5 +658,36 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
+	},
+		{
+		"name": "Mandinka Archer",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Songhai",
+		"movement": 2,
+		"strength": 14,
+		"range": 2,
+		"rangedStrength": 19,
+		"cost": 140,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["[1] additional attacks per turn"],
+		"attackSound": "crossbow"
+	},
+		{
+		"name": "Camel Gunner",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Songhai",
+		"movement": 3,
+		"strength": 25,
+		"range": 1,
+		"rangedStrength": 26,
+		"cost": 140,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
