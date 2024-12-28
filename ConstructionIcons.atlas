@@ -108,3 +108,94 @@ UnitIcons/Janissary (EGP)
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Saint Chammond
+  rotate: false
+  xy: 976, 72
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/A7D
+  rotate: false
+  xy: 976, 72
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagavarika Saravani
+  rotate: false
+  xy: 960, 1912
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Siamese Elephant Gunner
+  rotate: false
+  xy: 960, 1912
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Iroquois Heavy Infantry
+  rotate: false
+  xy: 376, 1704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinsengumi
+  rotate: false
+  xy: 1832, 1481
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Samurai Cavalry
+  rotate: false
+  xy: 1594, 1156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rocket Launcher
+  rotate: false
+  xy: 709, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Daylamite
+  rotate: false
+  xy: 1054, 396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mounted Crossbowman
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scutari
+  rotate: false
+  xy: 1594, 616
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/SLave Spearman
+  rotate: false
+  xy: 1378, 616
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Herdsman
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
