@@ -370,5 +370,22 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
+	},
+		{
+		"name": "Peltast",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Greece",
+		"movement": 2,
+		"strength": 14,
+		"range": 1,
+		"rangedStrength": 18,
+		"cost": 75,
+		"requiredTech": "Engineering",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
