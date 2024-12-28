@@ -796,5 +796,20 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
+	},
+		{
+		"name": "Blue Guard",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "The Netherlands",
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 28,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
