@@ -10,3 +10,16 @@ UnitIcons/Union Colored Infantry
   orig: 200, 200
   offset: 0, 0
   index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Deli
+  rotate: false
+  xy: 1662, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
