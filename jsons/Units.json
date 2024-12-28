@@ -253,6 +253,7 @@
 		"uniqueTo": "Egypt",
 		"movement": 4,
 		"strength": 20,
+		"range": 2,
 		"rangedStrength": 21,
 		"cost": 145,
 		"requiredTech": "Chivalry",
@@ -304,5 +305,38 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
+	},
+			{
+		"name": "Gendarme",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "France",
+		"movement": 4,
+		"strength": 29,
+		"cost": 200,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+		{
+		"name": "Saint Chammond",
+		"unitType": "Armored",
+		"replaces": "Landship",
+		"uniqueTo": "France",
+		"movement": 4,
+		"strength": 54,
+		"range": 2,
+		"rangedStrength": 60,
+		"cost": 375,
+		"requiredTech": "Combustion",
+		"requiredResource": "Iron",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "tankshot"
 	}
 ]
