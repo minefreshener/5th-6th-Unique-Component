@@ -10,6 +10,20 @@ UnitIcons/Armstrong Gun
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Camel Gunner
+  rotate: false
+  xy: 298, 1272
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cart Ballista
+  rotate: false
+  xy: 212, 1596
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Varangian Guard
   rotate: false
   xy: 212, 1488
