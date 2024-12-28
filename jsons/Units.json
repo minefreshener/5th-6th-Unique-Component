@@ -49,6 +49,22 @@
 		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
 		"attackSound": "shot"
 	},
+			{
+		"name": "Naphta Thrower (MON)",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Mongolia",
+		"movement": 2,
+		"strength": 19,
+		"rangedStrength": 30,
+		"range": 1,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
+		"attackSound": "shot"
+	},
 		{
 		"name": "Austro-Persian Corps (AUS)",
 		"unitType": "Gunpowder",
@@ -513,22 +529,6 @@
 		"attackSound": "cannon"
 	},
 		{
-		"name": "Naphta Thrower (MON)",
-		"unitType": "Gunpowder",
-		"replaces": "Musketman",
-		"uniqueTo": "Mongolia",
-		"movement": 2,
-		"strength": 19,
-		"rangedStrength": 30,
-		"range": 1,
-		"cost": 200,
-		"requiredTech": "Gunpowder",
-		"obsoleteTech": "Rifling",
-		"upgradesTo": "Rifleman",
-		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
-		"attackSound": "shot"
-	},
-		{
 		"name": "Daylamite",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
@@ -706,5 +706,51 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+			{
+		"name": "Svaerdstavman (SWED)",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Sweden",
+		"movement": 2,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+75]% Strength <vs [Mounted] units>"],
+		"promotions": ["Charge"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+				{
+		"name": "Svaerdstavman (NOR)",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Norway",
+		"movement": 2,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+75]% Strength <vs [Mounted] units>"],
+		"promotions": ["Charge"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Swedish Grenadier",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Sweden",
+		"movement": 2,
+		"strength": 21,
+		"rangedStrength": 32,
+		"range": 1,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+15]% Strength <vs [Water] units>", "[+15]% Strength <vs cities>", "Destroys tile improvements when attacking", "[+50]% Strength <vs [Sword] units>"],
+		"attackSound": "shot"
 	}
 ]
