@@ -380,12 +380,26 @@
 		"strength": 14,
 		"range": 1,
 		"rangedStrength": 18,
-		"cost": 75,
+		"cost": 70,
 		"requiredTech": "Engineering",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"uniques": ["Can move after attacking"],
 		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Inca Halberdier",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Inca",
+		"movement": 2,
+		"strength": 18,
+		"cost": 75,
+		"requiredTech": "Iron working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 	}
 ]
