@@ -47,11 +47,14 @@
 		"requiredTech": "Civil Service"
 	},
 	    {
-        "name": "Constabulary",
+        "name": "Hermandad",
+	"replaces": "Constabulary",
+	"uniqueTo": "Spain",
         "cost": 160,
         "maintenance": 1,
+	"production": 1,
         "hurryCostModifier": 10,
-        "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
-        "requiredTech": "Banking"
-    },
+        "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]", "New [Military] units start with [15] Experience [in this city]"],
+        "requiredTech": "Civil Service"
+    }
 ]
