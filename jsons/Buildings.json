@@ -56,5 +56,16 @@
         "hurryCostModifier": 10,
         "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]", "New [Military] units start with [15] Experience [in this city]"],
         "requiredTech": "Civil Service"
-    }
+    },
+		{
+		"name": "Mayan Observatory",
+		"replaces": "Observatory",
+		"uniqueTo": "The Maya",
+		"maintenance": 1,
+		"culture": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"requiredTech": "Astronomy"
+	}
 ]
