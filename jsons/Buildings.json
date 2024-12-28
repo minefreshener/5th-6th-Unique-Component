@@ -18,6 +18,19 @@
 		"culture": 1,
 		"faith": 1,
 		"hurryCostModifier": 25,
-		"requiredTech": "Trapping"
-	}
+		"requiredTech": "Philosophy"
+	},
+		{
+		"name": "Pukara",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Inca",
+		"cityStrength": 10,
+		"cityHealth": 18,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["Destroyed when the city is captured", "Must have an owned [Mountain] within [2] tiles", "[+1 Culture] from [Road] tiles [in this city]"],
+		"requiredTech": "Chivalry"
+	},
 ]
