@@ -781,5 +781,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+		{
+		"name": "Al-Holpop",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "The Maya",
+		"movement": 2,
+		"strength": 15,
+		"cost": 60,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [25]% of killed [Military] unit's [Strength] as [Science]", "Earn [25]% of killed [Military] unit's [Strength] as [Faith]"],
+		"promotions": ["Woodsman"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
 ]
