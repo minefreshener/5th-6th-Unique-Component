@@ -689,5 +689,22 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
+	},
+		{
+		"name": "Scutari",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Spain",
+		"movement": 2,
+		"strength": 14,
+		"range": 1,
+		"rangedStrength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
