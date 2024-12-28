@@ -11,6 +11,16 @@
 		"uniques": ["Only available <when religion is enabled>"]
 	},
 	{
+		"name": "Bimaristan",
+		"replaces": "Hospital",
+		"uniqueTo": "Arabia",
+		"food": 3,
+		"percentStatBonus": {"food": 25},
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Civil Service"
+	},
+	{
 		"name": "Iconography Studio",
 		"replaces": "Circus",
 		"uniqueTo": "Greece",
@@ -67,5 +77,14 @@
 		"percentStatBonus": {"science": 50},
 		"requiredBuilding": "Library",
 		"requiredTech": "Astronomy"
+	},
+		{
+		"name": "Drug Clinic",
+		"replaces": "Hospital",
+		"uniqueTo": "The Netherlands",
+		"happiness": 5,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredTech": "Pharmaceuticals"
 	}
 ]
