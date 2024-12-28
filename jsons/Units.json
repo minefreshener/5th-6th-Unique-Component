@@ -557,5 +557,36 @@
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I", "[Privateer] ability", "Supply"],
 		"attackSound": "cannon"
+	},
+		{
+		"name": "Cart Ballista",
+		"unitType": "Siege",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Rome",
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 15,
+		"cost": 90,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack"],
+		"attackSound": "arrow"
+	},
+		{
+		"name": "Legio Palatina",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Rome",
+		"movement": 2,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"attackSound": "metalhit"
 	}
 ]
