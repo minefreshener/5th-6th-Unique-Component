@@ -34,7 +34,7 @@
 		"attackSound": "artillery"
 	},
 	{
-		"name": "Naphta Thrower",
+		"name": "Naphta Thrower (ARB)",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Arabia",
@@ -495,5 +495,37 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["Great Generals II"],
 		"attackSound": "horse"
+	},
+		{
+		"name": "Rocket Launcher",
+		"unitType": "Siege",
+		"replaces": "Cannon",
+		"uniqueTo": "Mongolia",
+		"movement": 2,
+		"strength": 15,
+		"range": 2,
+		"rangedStrength": 19,
+		"cost": 185,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+100]% Strength <when attacking>","No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
+		"attackSound": "cannon"
+	},
+		{
+		"name": "Naphta Thrower (MON)",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Mongolia",
+		"movement": 2,
+		"strength": 19,
+		"rangedStrength": 30,
+		"range": 1,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+33]% Strength <vs [Water] units>", "[+33]% Strength <vs cities>", "Destroys tile improvements when attacking"],
+		"attackSound": "shot"
 	}
 ]
