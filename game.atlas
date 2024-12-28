@@ -17,6 +17,34 @@ UnitIcons/Greek Fire
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Billman
+  rotate: false
+  xy: 1460, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Peltast
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Inca Halberdier
+  rotate: false
+  xy: 628, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mandinka Archer
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 
 game2.png
 size: 2048, 2048
@@ -67,6 +95,34 @@ UnitIcons/Arrow Warrior
 UnitIcons/Sacred Band
   rotate: false
   xy: 836, 1005
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mamluk Archer
+  rotate: false
+  xy: 4, 1629
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gendarme
+  rotate: false
+  xy: 1252, 173
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gothic Knight
+  rotate: false
+  xy: 1252, 173
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Elephant Gunner
+  rotate: false
+  xy: 212, 589
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
