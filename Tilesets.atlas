@@ -10,3 +10,311 @@ TileSets/HexaRealm/Tiles/Pa
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Armstrong Gun
+  rotate: false
+  xy: 220, 881
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Arrow Warrior
+  rotate: false
+  xy: 220, 817
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Al-Holpop
+  rotate: false
+  xy: 220, 817
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cart Ballista
+  rotate: false
+  xy: 220, 689
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Varangian Guard
+  rotate: false
+  xy: 886, 1876
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Camel Gunner
+  rotate: false
+  xy: 1174, 1908
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mandinka Archer
+  rotate: false
+  xy: 1030, 1922
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sipahi
+  rotate: false
+  xy: 1822, 1914
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Moscow Rajtara
+  rotate: false
+  xy: 1462, 1702
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Waka
+  rotate: false
+  xy: 292, 730
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sacred Band
+  rotate: false
+  xy: 429, 1383
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jaguar Knight
+  rotate: false
+  xy: 793, 1616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Janissary (EGP)
+  rotate: false
+  xy: 793, 1552
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Samurai Cavalry
+  rotate: false
+  xy: 865, 1423
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Inca Halberdier
+  rotate: false
+  xy: 1081, 1360
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Legio Palatina
+  rotate: false
+  xy: 1153, 1512
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Longbowman (IND)
+  rotate: false
+  xy: 1153, 1448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spearman
+  rotate: false
+  xy: 1441, 1328
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Marauder
+  rotate: false
+  xy: 436, 517
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Foederati (ROM)
+  rotate: false
+  xy: 436, 517
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Foederati (CEL)
+  rotate: false
+  xy: 436, 517
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Blue Guard
+  rotate: false
+  xy: 937, 1327
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Gunner
+  rotate: false
+  xy: 1081, 1287
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Siamese Elephant Gunner
+  rotate: false
+  xy: 1081, 1287
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Woad Warrior
+  rotate: false
+  xy: 861, 1221
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Deli
+  rotate: false
+  xy: 436, 1157
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Belaeric Slinger
+  rotate: false
+  xy: 1009, 1457
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scutari
+  rotate: false
+  xy: 436, 1093
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Peltast
+  rotate: false
+  xy: 436, 1093
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Iroquois Heavy Infantry
+  rotate: false
+  xy: 436, 1093
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Daylamite
+  rotate: false
+  xy: 436, 1093
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Nagavarika Saravani
+  rotate: false
+  xy: 580, 884
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mamluk Archer
+  rotate: false
+  xy: 865, 1497
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Huscarl
+  rotate: false
+  xy: 256, 467
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Austro-Persian Corps (AUS)
+  rotate: false
+  xy: 292, 62
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Austro-Persian Corps (PER)
+  rotate: false
+  xy: 292, 62
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Oromo
+  rotate: false
+  xy: 721, 1534
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gendarme
+  rotate: false
+  xy: 937, 1519
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gothic Knight
+  rotate: false
+  xy: 937, 1519
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cavalry
+  rotate: false
+  xy: 357, 1439
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hakkapeliitta
+  rotate: false
+  xy: 1318, 1689
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mounted Crossbowman
+  rotate: false
+  xy: 865, 1497
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bashi Bazouk
+  rotate: false
+  xy: 958, 1890
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gulay Gorod
+  rotate: false
+  xy: 364, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
